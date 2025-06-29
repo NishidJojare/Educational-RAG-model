@@ -99,3 +99,40 @@ DBMS was developed to handle the following difficulties of typical File-processi
 * Identify the **Entity Sets**, **Attributes**, and **Relationship Set** in the database.
 --------------------------------------------------
 
+[2025-06-29 19:13:26]
+# Question : What is machine learning?
+# Answer : **Machine Learning** is the science (and art) of programming computers so they can learn from data.
+--------------------------------------------------
+
+[2025-06-29 19:14:00]
+# Question : List all imp algorithms of ML
+# Answer : **Important Machine Learning Algorithms:**
+
+* **Linear SVM Classification**
+* **K-Means** (Lloyd-Forgy algorithm)
+* **Local Outlier Factor (LOF)**
+* **Logistic Regression**
+* **Bayesian Gaussian Mixture Models**
+* **Recurrent Neurons and Layers** (for Input and Output Sequences)
+* **Boltzmann Machines**
+* **AlexNet** (local response normalization)
+
+Note: This is not an exhaustive list of all ML algorithms, but rather a list of algorithms mentioned in the provided context.
+--------------------------------------------------
+
+[2025-06-29 19:15:12]
+# Question : What is ER diagram in DBMS
+# Answer : **ER diagram** or **Entity Relationship diagram** is a conceptual model that gives the graphical representation of the logical structure of the database. It shows all the constraints and relationships that exist among the different components. An ER diagram is mainly composed of following three components- **Entity Sets**, **Attributes** and **Relationship Set**.
+--------------------------------------------------
+
+[2025-06-29 19:15:26]
+# Question : What are joins in SQL
+# Answer : **Joins** in SQL are used to combine rows from two or more tables, based on a related column between them.
+--------------------------------------------------
+
+[2025-06-29 19:15:39]
+# Question : Tell me the types of JOINS in SQL
+# Answer : - **INNER JOIN**: selects records that have matching values in both tables.
+- **FULL (OUTER) JOIN**: returns all records when there is a match in left (table1) or right (table2) table records.
+--------------------------------------------------
+

@@ -66,3 +66,12 @@ It will be stored locally in
 ```
 history.txt
 ```
+
+
+## 📸 UI Preview
+
+### 🔹 Chat Interface
+![QnA](static/images/image1.png)
+
+### 🔹 Markdown Answer Example
+![QnA](static/images/image2.png)
