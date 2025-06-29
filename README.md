@@ -68,10 +68,7 @@ history.txt
 ```
 
 
-## 📸 UI Preview
+## 📸 Chatbot preview
 
-### 🔹 Chat Interface
-![QnA](static/images/image1.png)
-
-### 🔹 Markdown Answer Example
 ![QnA](static/images/image2.png)
+![QnA](static/images/image1.png)
